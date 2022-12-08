@@ -2,7 +2,7 @@
 
  <h3 align="center">🧑🏻‍💻 (Ela | Dela) 🧑🏻‍💻</h3>
 
-<p align="center">:computer:  Sou Desenvolvedora Full Stack Júnior
+<p align="center">Desenvolvedora Full Stack Júnior
 
 
  ##

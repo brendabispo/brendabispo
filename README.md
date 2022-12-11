@@ -1,4 +1,4 @@
-<img align="center" src="assets/img.jpeg">
+<img align="center" src="">
 
  <h3 align="center">🧑🏻‍💻 (Ela | Dela) 🧑🏻‍💻</h3>
 
